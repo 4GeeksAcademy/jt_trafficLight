@@ -12,8 +12,8 @@ const Home = () => {
 		<div clasName="container-fluid">
 		<div className="row my-5">
       		<div className="col-sm-12">
-          		<div className="alert alert-warning text-center" role="alert">
-            	<h2>This is a traffic light</h2>
+          		<div className="alert alert-success text-center" role="alert">
+            	<h2>This is a conventional traffic light</h2>
           		</div>
         	</div>
 		</div>
