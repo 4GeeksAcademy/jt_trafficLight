@@ -27,7 +27,9 @@ const Home = () => {
 				</div>
 			</div>
 		</div>
-
+		<div className="col-sm-12 d-flex justify-content-center">
+		<button type="button" className="btn btn-success">Go crazy!</button>
+		</div>
 		<div className="row my-5">
 			<div className="fixed-bottom p-4 text-danger text-center">
         		Made with ❤️ by <b>Julia</b>

@@ -33,3 +33,7 @@
 .glow {
     box-shadow: 0 0 30px #fffb00, inset 0 0 30px #ffffff;
 }
+
+.btn {
+    box-shadow: 2px 2px 21px -1px #000000;
+}
