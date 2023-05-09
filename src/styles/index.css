@@ -37,3 +37,15 @@
 .btn {
     box-shadow: 2px 2px 21px -1px #000000;
 }
+
+.blue {
+    background: blue
+}
+
+.purple {
+    background: purple;
+}
+
+.orange {
+    background: orange;
+}
